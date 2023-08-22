@@ -5,3 +5,7 @@
 
 ### MLOps
 * A nice course about builing a ML system: [CS 329S: Machine Learning Systems Design 2022 in Stanford](https://stanford-cs329s.github.io/index.html#overview)
+
+### LLM
+* paper collection repo: [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main)
+* Good podcast: [latent-space](https://www.latent.space/podcast)
