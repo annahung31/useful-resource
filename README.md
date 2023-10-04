@@ -9,3 +9,15 @@
 ### LLM
 * paper collection repo: [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM/tree/main)
 * Good podcast: [latent-space](https://www.latent.space/podcast)
+* People to follow on LinkedIn:
+  * [Elvis S., Co-Founder at DAIR.AI](https://www.linkedin.com/in/omarsar/)
+  * [Philipp Schmid, Hugging Face](https://www.linkedin.com/in/philipp-schmid-a6a2bb196/)
+  * [Pascal Biese, Daily LLM Research Nuggets for 13k+ Experts](https://www.linkedin.com/in/pascalbiese/)
+  * [Jim Fan, NVIDIA](https://www.linkedin.com/in/drjimfan/)
+  * [Tom Aarsen, NLTK & 🤗SetFit maintainer, 🤗Fellow, ML Engineer @ Argilla](https://www.linkedin.com/in/tomaarsen/)
+* Newspapers:
+  * [AlphaSignal](https://alphasignalai.beehiiv.com/)
+  * [AI Supremacy](https://aisupremacy.substack.com/)
+  * 
+
+
