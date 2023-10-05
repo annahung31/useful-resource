@@ -18,6 +18,8 @@
 * Newspapers:
   * [AlphaSignal](https://alphasignalai.beehiiv.com/)
   * [AI Supremacy](https://aisupremacy.substack.com/)
-  * 
+ 
+### AWS tutorial
+* [Stephane Maarek](https://www.youtube.com/@StephaneMaarek/featured)
 
 
