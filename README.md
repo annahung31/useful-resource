@@ -1,6 +1,6 @@
-# usful-AIML-resource
+# usful-resource
 
-### Interview
+### AIML Interview
 * A well-writen book introducing job category, interivew process, and questions: [Machine Learning Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/?q=)  
 
 ### MLOps
@@ -22,4 +22,7 @@
 ### AWS tutorial
 * [Stephane Maarek](https://www.youtube.com/@StephaneMaarek/featured)
 
+# Software engineering
+### Maintaining Python packages
+* [7. Releasing and versioning](https://py-pkgs.org/07-releasing-versioning.html)
 
